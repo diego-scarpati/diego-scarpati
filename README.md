@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Global News HR App](https://github.com/diego-scarpati/Global-News-Front)
 
-- 👨‍💻 All of my projects are available at [Under Construction](Under Construction)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://diego-scarpati.github.io/)
 
 - 💬 Ask me about **ReactJs, React Native**
 
